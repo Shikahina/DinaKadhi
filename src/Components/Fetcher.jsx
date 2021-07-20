@@ -8,6 +8,11 @@ function Fetcher(props) {
         method: 'POST',
         url: woOAuth,
         headers: {'content-type': 'application/x-www-form-urlencoded'},
+        proxy: {
+            protocol: 'https',
+            host: 'api.prokerala.com',
+            
+          },
         data: {
           grant_type: 'client_credentials',
           client_id: '3b7be719-ddf4-4a12-a6c0-979b438b6519',
