@@ -4,6 +4,7 @@ function Planets(props) {
   const url = "https://planet-backend-application.herokuapp.com/getDiff";
   const [state, setstate] = useState();
   useEffect(() => {
+    setstate(undefined)
     asyncawaitfunc()
     return () => {
       
