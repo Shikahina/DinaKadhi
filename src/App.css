@@ -12,7 +12,17 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.timepicker {
+  position: absolute;
 
+  top:  50%;
+  left: 50%;
+
+  transform: translateX(-50%) translateY(-50%);
+}
+.widthsetter{
+  
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
