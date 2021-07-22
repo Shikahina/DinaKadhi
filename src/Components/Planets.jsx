@@ -1,7 +1,7 @@
 import React, { useState,useEffect } from 'react'
 import ReactJson from 'react-json-view';
 function Planets(props) {
-  const url = "http://planet-backend-application.herokuapp.com/getDiff";
+  const url = "https://planet-backend-application.herokuapp.com/getDiff";
   const [state, setstate] = useState();
   useEffect(() => {
     asyncawaitfunc()
