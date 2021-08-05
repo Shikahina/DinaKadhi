@@ -1,6 +1,12 @@
 # Dinakadhi
 
-This project was bootstrapped with Create-react-app
+This project was built with ReactJS. A little bit of Material UI is used for date-pickers.
+
+## Use case
+
+Astrologers find the daily planetary positions from some app or website and calculate the difference between their positions to find the speed of the planets on a given day (24 hrs). 
+This Application receives data from https://github.com/Shikahina/Astro-miner and displays the end result of their repeated calculations.
+
 ## Setup
 After cloning the project dont forget to run `npm install ` or `yarn install`
 
