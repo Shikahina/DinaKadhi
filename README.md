@@ -23,6 +23,6 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Live Demo
-Please feel free to access https://dinakadhi.herokuapp.com/ to get a demo of this project. 
+Please feel free to access https://dinakadhi.herokuapp.com/ to get a demo of this project. \
 (Don't worry your internet is not slow ,the free hosting and server provider( Herokuapp) takes sometime to spin up their server,when the website is used once in a blue moon) .
 
