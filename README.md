@@ -24,5 +24,5 @@ You will also see any lint errors in the console.
 
 ### Live Demo
 Please feel free to access https://dinakadhi.herokuapp.com/ to get a demo of this project. \
-(Don't worry your internet is not slow ,the free Platform as a Service provider([Herokuapp](#https://www.heroku.com/)) takes sometime to spin up their server,when the website is used once in a blue moon) .
+(Don't worry your internet is not slow ,the free Platform as a Service provider([Herokuapp](https://www.heroku.com/)) takes sometime to spin up their server,when the website is used once in a blue moon) .
 
