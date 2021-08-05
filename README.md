@@ -1,6 +1,6 @@
 # Dinakadhi
 
-This project was built with ReactJS. A little bit of Material UI is used for date-pickers.
+This project is built with ReactJS. A little bit of Material UI is used for date-pickers.
 
 ## Use case
 
