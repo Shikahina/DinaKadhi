@@ -31,5 +31,5 @@ Please feel free to access https://dinakadhi.herokuapp.com/ to get a demo of thi
 ![image](https://user-images.githubusercontent.com/62425476/128445368-a25dac2e-18c1-4d2b-b0e5-92c2e19dccd7.png)
 ![image](https://user-images.githubusercontent.com/62425476/128445390-9489880a-1c89-4a1f-bb70-2d5a43246015.png)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62425476/128445441-1f4b6eed-5219-4cd3-925d-377259fff2cb.png?raw=true" width="50%" height="50%" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/62425476/128445441-1f4b6eed-5219-4cd3-925d-377259fff2cb.png?raw=true" width="50" height="50" alt="Sublime's custom image"/>
 </p>
